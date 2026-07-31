@@ -75,4 +75,45 @@
     "en": "Asking for feedback before submitting is a professional habit.",
     "fr": "Demander un avis avant de remettre un travail est une habitude professionnelle."
   }
+  "20": {
+    "en": "An API is like a messenger between a client and a server.",
+    "fr": "Une API est comme un messager entre un client et un serveur."
+  },
+  "21": {
+    "en": "HTTP is a set of rules for communication on the web.",
+    "fr": "HTTP est un ensemble de règles pour communiquer sur le Web."
+  },
+  "22": {
+    "en": "A client sends a request to a server.",
+    "fr": "Un client envoie une requête à un serveur."
+  },
+  "23": {
+    "en": "I send a request to get a web page.",
+    "fr": "J'envoie une requête pour obtenir une page web."
+  },
+  "24": {
+    "en": "The server sends back a response.",
+    "fr": "Le serveur renvoie une réponse."
+  },
+  "25": {
+    "en": "A functional test checks that a feature works correctly.",
+    "fr": "Un test fonctionnel vérifie qu'une fonctionnalité fonctionne correctement."
+  },
+  "26": {
+    "en": "A non-functional test checks performance, security and reliability.",
+    "fr": "Un test non fonctionnel vérifie les performances, la sécurité et la fiabilité."
+  },
+  "27": {
+    "en": "An integration test checks that different components work together.",
+    "fr": "Un test d'intégration vérifie que différents composants fonctionnent ensemble."
+  },
+  "28": {
+    "en": "A system test checks that the whole system works correctly.",
+    "fr": "Un test système vérifie que l'ensemble du système fonctionne correctement."
+  },
+  "29": {
+    "en": "An acceptance test checks that the software meets the customer's needs.",
+    "fr": "Un test d'acceptation vérifie que le logiciel répond aux besoins du client."
+  }
+}
 }
