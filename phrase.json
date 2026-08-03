@@ -115,4 +115,20 @@
     "en": "An acceptance test checks that the software meets the customer's needs.",
     "fr": "Un test d'acceptation vérifie que le logiciel répond aux besoins du client."
   }
+  "30": {
+    "en": "Flex-direction sets the main axis of a flex container, either row or column.",
+    "fr": "Flex-direction définit l'axe principal d'un conteneur flex, soit en ligne (row), soit en colonne (column)."
+  },
+  "31": {
+    "en": "Justify-content aligns items along the main axis.",
+    "fr": "Justify-content aligne les éléments sur l'axe principal."
+  },
+  "32": {
+    "en": "Justify-content can center items, space them out, or push them to the ends.",
+    "fr": "Justify-content peut centrer les éléments, les espacer ou les placer aux extrémités."
+  },
+  "33": {
+    "en": "Align-items aligns items along the cross axis, perpendicular to the main axis.",
+    "fr": "Align-items aligne les éléments sur l'axe secondaire, perpendiculaire à l'axe principal."
+  }
 }
