@@ -1,122 +1,203 @@
+
 {
   "1": {
-    "en": "First, I check the requirements.",
-    "fr": "D'abord, je vérifie les exigences."
+    "en": "When I am alone and have nothing to accomplish, what do I feel?",
+    "fr": "Lorsque je suis seul et que je n'ai rien à accomplir, qu'est-ce que je ressens ?"
   },
   "2": {
-    "en": "Then, I compare the website with the mockup.",
-    "fr": "Ensuite, je compare le site avec la maquette."
+    "en": "Do I sometimes feel that I have to become somebody to deserve to exist?",
+    "fr": "Ai-je parfois l'impression que je dois devenir quelqu'un pour avoir le droit d'exister ?"
   },
   "3": {
-    "en": "Next, I check the different screen sizes.",
-    "fr": "Puis, je vérifie les différentes tailles d'écran."
+    "en": "What am I trying to prove, and to whom?",
+    "fr": "Qu'est-ce que j'essaie de prouver, et à qui ?"
   },
   "4": {
-    "en": "After that, I test the website on mobile.",
-    "fr": "Après cela, je teste le site sur mobile."
+    "en": "Can I appreciate my life when nothing extraordinary is happening?",
+    "fr": "Est-ce que je sais apprécier ma vie lorsqu'il ne se passe rien d'extraordinaire ?"
   },
   "5": {
-    "en": "I also check the navigation.",
-    "fr": "Je vérifie aussi la navigation."
+    "en": "What am I afraid of discovering if I stop telling myself stories about who I am?",
+    "fr": "Qu'est-ce que je crains de découvrir si je cesse de me raconter des histoires sur moi-même ?"
   },
   "6": {
-    "en": "The layout is also different on tablets.",
-    "fr": "La mise en page est également différente sur les tablettes."
+    "en": "What image of myself am I trying to preserve?",
+    "fr": "Quelle image de moi-même est-ce que j'essaie de préserver ?"
   },
   "7": {
-    "en": "In addition, I check the accessibility.",
-    "fr": "En plus, je vérifie l'accessibilité."
+    "en": "Do I sometimes confuse my personal worth with my achievements?",
+    "fr": "Est-ce que je confonds parfois ma valeur personnelle avec mes réussites ?"
   },
   "8": {
-    "en": "I check the buttons as well.",
-    "fr": "Je vérifie également les boutons."
+    "en": "What would remain of my identity if I gave up my ambitions?",
+    "fr": "Qu'est-ce qui resterait de mon identité si je renonçais à mes ambitions ?"
   },
   "9": {
-    "en": "I check the layout because some elements are misplaced.",
-    "fr": "Je vérifie la mise en page parce que certains éléments sont mal placés."
+    "en": "Do I spend more time watching myself live than actually living?",
+    "fr": "Est-ce que je me regarde davantage vivre que je ne vis réellement ?"
   },
   "10": {
-    "en": "In fact, the problem comes from the CSS.",
-    "fr": "En fait, le problème vient du CSS."
+    "en": "In which situations do I naturally feel that I belong?",
+    "fr": "Dans quelles situations est-ce que je me sens naturellement à ma place ?"
   },
   "11": {
-    "en": "The mobile version is different because the screen is smaller.",
-    "fr": "La version mobile est différente parce que l'écran est plus petit."
+    "en": "Why can the idea of growing older cause me so much anxiety?",
+    "fr": "Pourquoi l'idée de vieillir peut-elle susciter autant d'inquiétude chez moi ?"
   },
   "12": {
-    "en": "The website works well, but the cards have inconsistent heights.",
-    "fr": "Le site fonctionne bien, mais les cartes ont des hauteurs incohérentes."
+    "en": "When did I start thinking that I had fallen behind in life?",
+    "fr": "À quel moment ai-je commencé à penser que j'avais pris du retard dans ma vie ?"
   },
   "13": {
-    "en": "The layout looks correct; however, the button is not aligned.",
-    "fr": "La mise en page semble correcte ; cependant, le bouton n'est pas aligné."
+    "en": "Whose life path do I compare my own with?",
+    "fr": "À qui est-ce que je compare ma trajectoire personnelle ?"
   },
   "14": {
-    "en": "The design looks good, yet the text is difficult to read.",
-    "fr": "Le design est réussi, pourtant le texte est difficile à lire."
+    "en": "Which social expectations have I adopted without ever truly choosing them?",
+    "fr": "Quelles attentes sociales ai-je intégrées sans jamais vraiment les choisir ?"
   },
   "15": {
-    "en": "The desktop version works well. On the other hand, the mobile version needs some changes.",
-    "fr": "La version ordinateur fonctionne bien. En revanche, la version mobile nécessite quelques changements."
+    "en": "If nobody knew my age, would I live differently?",
+    "fr": "Si personne ne connaissait mon âge, est-ce que je vivrais différemment ?"
   },
   "16": {
-    "en": "The cards have different heights, so the layout looks inconsistent.",
-    "fr": "Les cartes ont des hauteurs différentes, donc la mise en page semble incohérente."
+    "en": "What do I consider a successful life?",
+    "fr": "Qu'est-ce que je considère comme une vie réussie ?"
   },
   "17": {
-    "en": "The screen is too small, so some elements move to the next line.",
-    "fr": "L'écran est trop petit, donc certains éléments passent à la ligne suivante."
+    "en": "Is it my own definition of success, or one I inherited from others?",
+    "fr": "Est-ce ma propre définition de la réussite ou celle que j'ai héritée des autres ?"
   },
   "18": {
-    "en": "The website is responsive; therefore, the layout changes on smaller screens.",
-    "fr": "Le site est responsive ; par conséquent, la mise en page change sur les écrans plus petits."
+    "en": "What do I genuinely regret, beyond what I imagine I have missed?",
+    "fr": "Qu'est-ce que je regrette réellement, au-delà de ce que j'imagine avoir manqué ?"
   },
   "19": {
-    "en": "The button is outside the container. That's why I need to change the CSS.",
-    "fr": "Le bouton est en dehors du conteneur. C'est pour ça que je dois modifier le CSS."
+    "en": "Can I look towards the future without seeing my past as a failure?",
+    "fr": "Puis-je envisager l'avenir sans considérer mon passé comme un échec ?"
   },
   "20": {
-    "en": "The image is too large. Therefore, I need to adjust its width.",
-    "fr": "L'image est trop grande. Je dois donc ajuster sa largeur."
+    "en": "What could still surprise me in my own life?",
+    "fr": "Qu'est-ce qui pourrait encore me surprendre dans ma propre vie ?"
   },
   "21": {
-    "en": "For example, I can use Flexbox to align the cards.",
-    "fr": "Par exemple, je peux utiliser Flexbox pour aligner les cartes."
+    "en": "Does my spiritual search help me live, or does it sometimes allow me to escape my life?",
+    "fr": "Est-ce que ma recherche spirituelle m'aide à vivre ou me permet parfois de fuir ma vie ?"
   },
   "22": {
-    "en": "Actually, the problem is not related to the HTML.",
-    "fr": "En fait, le problème ne vient pas du HTML."
+    "en": "Why do I sometimes need to give certain experiences an extraordinary meaning?",
+    "fr": "Pourquoi ai-je parfois besoin de donner une signification exceptionnelle à certaines expériences ?"
   },
   "23": {
-    "en": "In other words, the CSS needs to be changed.",
-    "fr": "En d'autres termes, le CSS doit être modifié."
+    "en": "Am I searching for truth, or for an experience that would make me feel different?",
+    "fr": "Est-ce que je recherche la vérité ou une expérience qui me donnerait le sentiment d'être différent ?"
   },
   "24": {
-    "en": "In particular, I need to check the gap between the elements.",
-    "fr": "En particulier, je dois vérifier l'espace entre les éléments."
+    "en": "Can I accept that a profound experience remains mysterious and has no definitive conclusion?",
+    "fr": "Puis-je accepter qu'une expérience profonde reste mystérieuse et sans conclusion définitive ?"
   },
   "25": {
-    "en": "Finally, I check that everything works correctly.",
-    "fr": "Enfin, je vérifie que tout fonctionne correctement."
+    "en": "What distinction do I make between an inner experience and an objective truth?",
+    "fr": "Quelle différence fais-je entre une expérience intérieure et une vérité objective ?"
   },
   "26": {
-    "en": "Eventually, I find the source of the problem.",
-    "fr": "Finalement, je trouve la source du problème."
+    "en": "Do I sometimes seek to feel chosen, initiated, or exceptional?",
+    "fr": "Est-ce que je cherche parfois à me sentir élu, initié ou exceptionnel ?"
   },
   "27": {
-    "en": "To sum up, the website works well, but the mobile layout needs some adjustments.",
-    "fr": "Pour résumer, le site fonctionne bien, mais la mise en page mobile nécessite quelques ajustements."
+    "en": "What does living spiritually mean to me without building a spiritual identity?",
+    "fr": "Que signifie pour moi vivre spirituellement sans me construire une identité spirituelle ?"
   },
   "28": {
-    "en": "In conclusion, the main issue is related to the responsive layout.",
-    "fr": "En conclusion, le principal problème concerne la mise en page responsive."
+    "en": "Can I welcome mystery without trying to interpret everything?",
+    "fr": "Puis-je accueillir le mystère sans chercher à tout interpréter ?"
   },
   "29": {
-    "en": "First, I check the requirements. Then, I test the main features. Finally, I report any issues.",
-    "fr": "D'abord, je vérifie les exigences. Ensuite, je teste les fonctionnalités principales. Enfin, je signale les problèmes éventuels."
+    "en": "What does meditation actually change in the way I live?",
+    "fr": "Qu'est-ce que la méditation change concrètement dans ma manière de vivre ?"
   },
   "30": {
-    "en": "The cards have different heights. However, this is not necessarily a bug.",
-    "fr": "Les cartes ont des hauteurs différentes. Cependant, ce n'est pas forcément un bug."
+    "en": "Can I live an ordinary day without expecting it to reveal something?",
+    "fr": "Suis-je capable de vivre une journée ordinaire sans lui demander de révéler quelque chose ?"
+  },
+  "31": {
+    "en": "What do I truly expect from other people?",
+    "fr": "Qu'est-ce que j'attends véritablement des autres ?"
+  },
+  "32": {
+    "en": "Do I allow others to know me, or do I present them with an image of myself?",
+    "fr": "Est-ce que je laisse les autres me connaître ou est-ce que je leur présente une image de moi ?"
+  },
+  "33": {
+    "en": "What makes me feel vulnerable in a relationship?",
+    "fr": "Qu'est-ce qui me rend vulnérable dans une relation ?"
+  },
+  "34": {
+    "en": "Can I receive affection without feeling that I have to earn it?",
+    "fr": "Est-ce que je sais recevoir de l'affection sans avoir l'impression de devoir la mériter ?"
+  },
+  "35": {
+    "en": "What place do I give tenderness in my life?",
+    "fr": "Quelle place est-ce que je donne à la tendresse dans mon existence ?"
+  },
+  "36": {
+    "en": "What sometimes prevents me from forming connections with others?",
+    "fr": "Qu'est-ce qui m'empêche parfois de créer des liens avec les autres ?"
+  },
+  "37": {
+    "en": "Can I love someone without expecting them to fill an emptiness within me?",
+    "fr": "Est-ce que je peux aimer quelqu'un sans attendre qu'il comble un manque en moi ?"
+  },
+  "38": {
+    "en": "What is my relationship with solitude: is it a refuge, a source of suffering, or a form of freedom?",
+    "fr": "Quelle relation ai-je avec la solitude : est-elle un refuge, une souffrance ou une liberté ?"
+  },
+  "39": {
+    "en": "What could I offer others without seeking recognition in return?",
+    "fr": "Qu'est-ce que je pourrais offrir aux autres sans chercher de reconnaissance en retour ?"
+  },
+  "40": {
+    "en": "How do I recognize a relationship in which I can fully be myself?",
+    "fr": "Comment est-ce que je reconnais une relation dans laquelle je peux être pleinement moi-même ?"
+  },
+  "41": {
+    "en": "What do I genuinely enjoy about learning and discovery?",
+    "fr": "Qu'est-ce qui me plaît réellement dans l'apprentissage et la découverte ?"
+  },
+  "42": {
+    "en": "Can I learn without turning every improvement into an obligation to succeed?",
+    "fr": "Est-ce que je peux apprendre sans transformer chaque progrès en obligation de réussir ?"
+  },
+  "43": {
+    "en": "Which activity makes me feel alive, regardless of its usefulness?",
+    "fr": "Quelle activité me donne le sentiment d'être vivant, indépendamment de son utilité ?"
+  },
+  "44": {
+    "en": "What would I like to create if I were not afraid of being judged?",
+    "fr": "Qu'est-ce que je voudrais créer si je n'avais pas peur du jugement ?"
+  },
+  "45": {
+    "en": "Which part of my ambitions comes from desire, and which part comes from fear?",
+    "fr": "Quelle part de mes ambitions vient du désir et quelle part vient de la peur ?"
+  },
+  "46": {
+    "en": "How could I build a life that feels more like my own?",
+    "fr": "Comment pourrais-je construire une vie qui me ressemble davantage ?"
+  },
+  "47": {
+    "en": "What am I neglecting in the present because I am too busy thinking about the future?",
+    "fr": "Qu'est-ce que je néglige dans le présent parce que je suis trop occupé à penser à l'avenir ?"
+  },
+  "48": {
+    "en": "Which little things bring me simple and genuine joy?",
+    "fr": "Quelles petites choses me procurent une joie simple et sincère ?"
+  },
+  "49": {
+    "en": "If I stopped judging myself for a week, what would change in my daily life?",
+    "fr": "Si je cessais de me juger pendant une semaine, qu'est-ce qui changerait dans mon quotidien ?"
+  },
+  "50": {
+    "en": "What if I had nothing to become? What would I want to experience right now?",
+    "fr": "Et si je n'avais rien à devenir, qu'aurais-je envie de vivre maintenant ?"
   }
 }
